@@ -40,6 +40,7 @@ function adicionarAmigo(){ //adicionar nome na lista
         listaDeAmigo.push(campo);  // adiciona o nome no array
         atualizarLista();
         limpar(); 
+        
 
         
 }
